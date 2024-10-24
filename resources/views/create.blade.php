@@ -1,6 +1,6 @@
 <x-layout title="Add a Game">
-    <h1>Add a new film</h1>
-    <form method="POST" action="/films">
+    <h1>Add a Game</h1>
+    <form method="POST" action="/">
       @csrf
       <div>
         <label for="title">Title:</label>
