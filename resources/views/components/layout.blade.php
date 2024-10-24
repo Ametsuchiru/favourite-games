@@ -8,8 +8,8 @@
   <body>
     <nav>
       <ul>
-        <li><a href="/games">Home</a></li>
-        <li><a href="/games/create">Add a New Game</a></li>
+        <li><a href="/">Home</a></li>
+        <li><a href="/create">Add a New Game</a></li>
       </ul>
     </nav>
     {{ $slot }}
